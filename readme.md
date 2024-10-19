@@ -20,6 +20,7 @@ It generates the following files:
     cd your-new-project
 
 2. Run the `create.py` script:
+   
     chmod +x create.py
    
     ./create.py
