@@ -21,6 +21,7 @@ It generates the following files:
 
 2. Run the `create.py` script:
     chmod +x create.py
+   
     ./create.py
 
     The script will create the project structure in the upper level directory.
